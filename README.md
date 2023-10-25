@@ -1,6 +1,6 @@
-## React JS - Personal Portfolio Website_V3
+## React JS - Personal Portfolio Website
 
-### [Personal Portfolio Website_V3](https://jeff-hwang.netlify.app/)
+### [Personal Portfolio Website](https://jeff-hwang.netlify.app/)
 
 Website Deployment by [netlify](https://www.netlify.com/)
 
@@ -21,8 +21,8 @@ Learn:
 
 To run this portfolio locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/jhwa426/React-Portfolio.git`
-2. Navigate to the project directory: `cd React-JS-Personal-Portfolio-Website-ver3/personal-website`
+1. Clone the repository: `git clone https://github.com/jhwa426/Jeff-Hwang.git`
+2. Navigate to the project directory: `cd Jeff-Hwang/personal-website`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm start`
 5. Open your browser and visit: `http://localhost:3000`
