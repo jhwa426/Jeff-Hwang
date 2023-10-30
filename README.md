@@ -10,8 +10,10 @@ Learn:
 - How to implement font icons in React
 - How to create Styled-components
 - Move faster with intuitive React UI tools
-- MUI libraries offers a comprehensive suite of free UI tools to help you ship new features faster. Start with Material UI, our fully-loaded component library, or bring your own design system to our production-ready components.
+- MUI libraries offers a comprehensive suite of free UI tools to help you ship new features faster. Start with Material UI, our fully-loaded component library, or bring your own design system to our production-ready components
 - How to create and implement contact form in React using EmailJS
+- Theme customisation button features (dark / light)
+- Responsive navigation bar
 
 <br>
 
@@ -21,8 +23,8 @@ Learn:
 
 To run this portfolio locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/jhwa426/React-Portfolio.git`
-2. Navigate to the project directory: `cd React-JS-Personal-Portfolio-Website-ver3/personal-website`
+1. Clone the repository: `git clone https://github.com/jhwa426/Jeff-Hwang.git`
+2. Navigate to the project directory: `cd Jeff-Hwang/personal-website`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm start`
 5. Open your browser and visit: `http://localhost:3000`
