@@ -3,8 +3,7 @@ import styled from 'styled-components';
 export const Nav = styled.nav`    
     background-color: ${({ theme }) => theme.bg};
     width: max-content;
-    ${'' /* display: block; */}
-    display: none;
+    display: block;
     padding: 0.5rem 1.0rem;
     z-index: 2;
     position: fixed;
@@ -17,8 +16,8 @@ export const Nav = styled.nav`
     backdrop-filter: blur(15px);
 
     @media screen and (max-width: 1350px) {
-        ${'' /* display: flex; */}
-        display: none;
+        display: flex;
+        ${'' /* display: none; */}
         transform: translateX(-50%);
         padding: 0.5rem 1.7rem;
     }
