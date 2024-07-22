@@ -1,8 +1,20 @@
-## React JS - Personal Portfolio Website_V3
+## React JS - Personal Website
 
 <!-- Icon sections -->
 
-## Skills 💻
+## [Personal Portfolio Website](https://jeff-hwang.netlify.app/)
+
+- How to implement font icons in React
+- How to create Styled-components
+- Move faster with intuitive React UI tools
+- MUI libraries offer a comprehensive suite of free UI tools to help you ship new features faster.
+- How to create and implement a contact form in React using EmailJS
+- Theme customisation button features (Dark / Light)
+- Responsive navigation bar
+- Framer Motion animation library for the project card
+- Website Deployment by [netlify](https://www.netlify.com/)
+
+## Technical Skills 💻
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/en/main)
@@ -15,31 +27,16 @@
 
 <br>
 
-### [Personal Portfolio Website_V3](https://jeff-hwang.netlify.app/)
-
-Website Deployment by [netlify](https://www.netlify.com/)
-
-Learn:
-
-- How to implement font icons in React
-- How to create Styled-components
-- Move faster with intuitive React UI tools
-- MUI libraries offer a comprehensive suite of free UI tools to help you ship new features faster.
-- How to create and implement a contact form in React using EmailJS
-- Theme customisation button features (Dark / Light)
-- Responsive navigation bar
-- Framer Motion animation library for the project card
-
-<br>
-
 # Getting Started
 
 ## Installation
 
+<details>
+
 To run this portfolio locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/jhwa426/React-Portfolio.git`
-2. Navigate to the project directory: `cd React-JS-Personal-Portfolio-Website-ver3/personal-website`
+1. Clone the repository: `git clone https://github.com/jhwa426/Jeff-Hwang`
+2. Navigate to the project directory: `cd personal-website`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm start`
 5. Open your browser and visit: `http://localhost:3000`
@@ -80,3 +77,5 @@ If you aren't satisfied with the build tool and configuration choices, you can `
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+</details>
