@@ -204,6 +204,8 @@ export const projects = [
             "Facilitated the development of React applications with backend connectivity via HTTP and incorporated user authentication",
             "Payment Methods API (stripe JS)",
             "UI development (React Bootstrap, React Spinners, SweetAlert2)",
+            "Deployment of the website by Render.com for both Frontend and Backend",
+            "Feel free to try on the website as an administrator (email: admin@a.com, password: admin)",
         ],
         img: "./img/football.booking.png",
         skills: [
