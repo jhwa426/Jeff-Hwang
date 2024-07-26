@@ -206,6 +206,7 @@ export const projects = [
             "UI development (React Bootstrap, React Spinners, SweetAlert2)",
             "Deployment of the website by Render.com for both Frontend and Backend",
             "Feel free to try on the website as an administrator (email: admin@a.com, password: admin)",
+            "Admin can access the Administration Panel and can manage the current booking, courts, and users. Also, Admin can add a new court for the website",
         ],
         img: "./img/football.booking.png",
         skills: [
