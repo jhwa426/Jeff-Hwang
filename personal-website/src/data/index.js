@@ -199,14 +199,14 @@ export const projects = [
         description: "MERN project - Booking.Fooball",
         descriptionDetails: [
             "Developed a Full-Stack Football Booking Management System utilising React JS and the MERN stack (MongoDB, Express, React, and Node) stack",
+            "Feel free to try on the website as an administrator (email: admin@a.com, password: admin)",
+            "Admin can access the Administration Panel and can manage the current booking, courts, and users.",
+            "Implemented a persistent storage application for CRUD on the website (Create the court, Read the current booking, Update the court and Delete the court)",
             "Implemented routing & route-related data fetching with React Router",
-            "Built standalone React apps & applications connected to a backend via HTTP",
             "Facilitated the development of React applications with backend connectivity via HTTP and incorporated user authentication",
             "Payment Methods API (stripe JS)",
             "UI development (React Bootstrap, React Spinners, SweetAlert2)",
             "Deployment of the website by Render.com for both Frontend and Backend",
-            "Feel free to try on the website as an administrator (email: admin@a.com, password: admin)",
-            "Admin can access the Administration Panel and can manage the current booking, courts, and users. Also, Admin can add a new court for the website",
         ],
         img: "./img/football.booking.png",
         skills: [
