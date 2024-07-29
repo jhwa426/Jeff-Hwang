@@ -198,7 +198,7 @@ export const projects = [
         date: "June 2024 - Aug 2024",
         description: "MERN project - Booking.Fooball",
         descriptionDetails: [
-            "Developed a Full-Stack Football Booking Management System utilising React JS and the MERN stack (MongoDB, Express, React, and Node) stack",
+            "Developed a Full-Stack Football Booking Management System utilising React JS and the MERN (MongoDB, Express, React, and Node) stack",
             "Feel free to try on the website as an administrator (email: admin@a.com, password: admin)",
             "Admin can access the Administration Panel and can manage the current booking, courts, and users.",
             "Implemented a persistent storage application for CRUD on the website (Create the court, Read the current booking, Update the court and Delete the court)",
