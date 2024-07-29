@@ -1,18 +1,19 @@
 ## React JS - Personal Website
 
-<!-- Icon sections -->
+<p>Developed a personal website using ReactJS, featuring a responsive navigation bar, a contact form powered by EmailJS, and a project card animated with Framer Motion, all styled with Styled-Components and MUI libraries, including a Dark/Light theme toggle, and deployed seamlessly via Netlify’s CI/CD pipeline.
+</p>
 
 ## [Personal Portfolio Website](https://jeff-hwang.netlify.app/)
 
-- How to implement font icons in React
-- How to create Styled-components
-- Move faster with intuitive React UI tools
-- MUI libraries offer a comprehensive suite of free UI tools to help you ship new features faster.
-- How to create and implement a contact form in React using EmailJS
-- Theme customisation button features (Dark / Light)
-- Responsive navigation bar
-- Framer Motion animation library for the project card
-- Website Deployment by [netlify](https://www.netlify.com/)
+- Enhanced development speed with intuitive React UI tools
+- Created Styled-components
+- Utilised MUI libraries, offering a comprehensive suite of free UI tools, to ship new features faster
+- Created and implemented a contact form in React using EmailJS
+- Developed theme customisation button features (Dark / Light)
+- Used Framer Motion animation library for the project card
+- Implemented font icons in React
+- Designed a responsive navigation bar
+- Deployed the [Website](https://jeff-hwang.netlify.app/) using Netlify
 
 ## Technical Skills 💻
 
