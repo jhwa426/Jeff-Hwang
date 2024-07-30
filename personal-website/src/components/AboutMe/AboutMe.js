@@ -19,11 +19,15 @@ const AboutMe = () => {
                         </Description>
 
                         <Description>
-                            I am a highly motivated and organised individual who demonstrates the characteristics of independent and critical thinking through my university and work. Continuous opportunities for growth and learning are invaluable for sustaining motivation and cultivating enduring interest.
+                            I am passionate about leveraging my technical skills and various technologies to drive innovation, foster a positive work culture, and lead collaborative teams.
                         </Description>
 
                         <Description>
                             My decision to pursue a career in Software Development and IT management stems from a profound interest in software engineering and a deep-seated respect for innovation. I find immense satisfaction in integrating my software design, development, and data analysis expertise with solid leadership and culture-building skills.
+                        </Description>
+
+                        <Description>
+                            I am a highly motivated and organised individual who demonstrates the characteristics of independent and critical thinking through my university and work. Continuous opportunities for growth and learning are invaluable for sustaining motivation and cultivating enduring interest.
                         </Description>
 
                         <Description>
