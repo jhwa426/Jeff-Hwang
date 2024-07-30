@@ -210,10 +210,11 @@ export const projects = [
         ],
         img: "./img/football.booking.png",
         skills: [
-            "React JS/React Hooks/Router",
+            "React JS",
             "MongoDB",
-            "Node JS/Express",
+            "NodeJS/ExpressJS",
             "HTML5/CSS3/JavaScript",
+            "RESTful APIs"
         ],
         category: "web development",
         github: "https://github.com/jhwa426/Booking-System",
