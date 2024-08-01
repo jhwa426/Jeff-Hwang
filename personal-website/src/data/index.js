@@ -33,16 +33,6 @@ export const skills = [
                     "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACTklEQVR4Ab1XAaQqURB9DyohSykREpRIQSAlBCoECKUFCSRCBBEAaSEABQEoCIEASCwAUICALgCo83do0//9v819XX845O7VnDkzOzP7JWGaBd3C3IJpQVjAHeJ+Rs9a97vKLGrBsB1KgMhEP3FMUUwt4ENMfxr1yQIU4SSjRkbeOZtERmHk6pXQVDlnkHh9S+QLTm1hkiz4n/gzFQuny9FoFLquE+i34x+n02k0m00UCoV3BIzn3MMJrVYLtp1OJ0cS/X4f5/MZhmG8IyDsWtDfEaDIn2232/3zbrvdxuFwwGg04qRBt+VnETBNE0IIkE2n07/erdfrWK/X6Ha73Hb9ZXII3G43ivy3dNRqtZe7lUoFs9mM6oBDwCQCgquALT1FT3a5XF7qIZ/PYzgcolqtcggIIgBZAgRKB6lCRalp2uM8k8mAVMrlchwC+DEBipycE4n5fP44j8ViKJVKSCaTbAJCpgaez4vFIsjoWa/XA50FAgEkEgmEw2F2CkxZBZ5Br5tt1ITcbjd8Ph88Hg+7CBefECCsVitS4aVJcV9D/VMCVITk/Hq9YrPZyBBo2a1YMGvAcQYcj0cCtWMugcdYNhjDiBrP25mx3++x3W6RzWZZ8isfxzQLlsslJpMJpYY5jhkqcOH1ejEYDDAej9FoNOByuZxGsfqVzC7KTqcDSkkqleKsZOqX0mAwiHK5DGrJfr+fs5SqX8sjkQji8ThCoRC+v78Za7l6JagrUh3YkUuZpqgwDaecc9VYSDoV5Fg+at7n+eLN57kuE/EvzHr/Kvs31aYAAAAASUVORK5CYII=",
             },
             {
-                name: "HTML",
-                image:
-                    "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg",
-            },
-            {
-                name: "CSS",
-                image:
-                    "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg",
-            },
-            {
                 name: "JavaScript",
                 image:
                     "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg",
@@ -53,19 +43,44 @@ export const skills = [
                     "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg",
             },
             {
+                name: "Tailwind CSS",
+                image:
+                    "https://cdn.svgporn.com/logos/tailwindcss-icon.svg",
+            },
+            {
+                name: "HTML",
+                image:
+                    "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg",
+            },
+            {
+                name: "CSS",
+                image:
+                    "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg",
+            },
+            {
                 name: "Styled-Components",
                 image:
                     "./img/Styled-Components.png", //https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png
             },
             {
-                name: "Bootstrap",
+                name: "Appwrite",
                 image:
-                    "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg",
+                    "https://cdn.svgporn.com/logos/appwrite-icon.svg",
             },
             {
                 name: "Material UI",
                 image:
                     "https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg",
+            },
+            {
+                name: "ShadCN",
+                image:
+                    "https://avatars.githubusercontent.com/u/139895814?s=280&v=4",
+            },
+            {
+                name: "Bootstrap",
+                image:
+                    "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg",
             },
         ],
     },
@@ -171,6 +186,16 @@ export const skills = [
                 name: "Netlify",
                 image:
                     "https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png",
+            },
+            {
+                name: "Render",
+                image:
+                    "https://media.licdn.com/dms/image/D4E0BAQGGDoFoqHtOvA/company-logo_200_200/0/1702595267620/renderco_logo?e=2147483647&v=beta&t=Ywm0UZpTXbiXPopyfCDty8QXSEVz88QWWCwy28qLUyE",
+            },
+            {
+                name: "Vercel",
+                image:
+                    "https://cdn.svgporn.com/logos/vercel-icon.svg",
             },
             {
                 name: "VS Code",
