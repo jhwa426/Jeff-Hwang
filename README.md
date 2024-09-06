@@ -15,7 +15,8 @@
 - Designed a responsive navigation bar
 - Deployed the [Website](https://jeff-hwang.netlify.app/) using Netlify
 
-[Personal Website](https://github.com/user-attachments/assets/0d4afb88-0022-4865-a72a-e6853997f1d0)
+![Personal Website](https://github.com/user-attachments/assets/02e3ca78-2c93-40a4-af43-95aaaf3a1977)
+
 
 ## Technical Skills 💻
 
