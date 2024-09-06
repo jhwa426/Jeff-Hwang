@@ -14,6 +14,9 @@
 - Implemented font icons in React
 - Designed a responsive navigation bar
 - Deployed the [Website](https://jeff-hwang.netlify.app/) using Netlify
+- ![readme_img](https://github.com/user-attachments/assets/0d4afb88-0022-4865-a72a-e6853997f1d0)
+
+
 
 ## Technical Skills 💻
 
