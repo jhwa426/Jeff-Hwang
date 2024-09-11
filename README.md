@@ -17,24 +17,16 @@
 
 ![Personal Website](https://github.com/user-attachments/assets/02e3ca78-2c93-40a4-af43-95aaaf3a1977)
 
-
 ## Technical Skills 💻
 
-<img align="left" alt="React/React Native" height="50px" src="https://cdn.svgporn.com/logos/react.svg" />
-<img align="left" alt="redux" height="50px" src="https://cdn.svgporn.com/logos/redux.svg" />
-<img align="left" alt="react-router" height="50px" src="https://cdn.svgporn.com/logos/react-router.svg" />
-<img align="left" alt="styled-components" height="50px" src="https://styled-components.com/atom.png" />
-<img align="left" alt="mui" height="50px" src="https://cdn.svgporn.com/logos/material-ui.svg" />
+<img align="left" alt="React/React Native" height="50px" src="https://cdn.svgporn.com/logos/react.svg" /><img align="left" alt="redux" height="50px" src="https://cdn.svgporn.com/logos/redux.svg" /><img align="left" alt="react-router" height="50px" src="https://cdn.svgporn.com/logos/react-router.svg" /><img align="left" alt="styled-components" height="50px" src="https://styled-components.com/atom.png" /><img align="left" alt="mui" height="50px" src="https://cdn.svgporn.com/logos/material-ui.svg" />
+
 <br />
 <br />
 <br />
 <br />
 
-<img align="left" alt="Javascript" height="50px" src="https://cdn.svgporn.com/logos/javascript.svg" />
-<img align="left" alt="html5" height="50px" src="https://cdn.svgporn.com/logos/html-5.svg" />
-<img align="left" alt="css3" height="50px" src="https://cdn.svgporn.com/logos/css-3.svg" />
-<img align="left" alt="Git" height="50px" src="https://cdn.svgporn.com/logos/git-icon.svg" />
-<img align="left" alt="netlify" height="50px" src="https://cdn.svgporn.com/logos/netlify-icon.svg" />
+<img align="left" alt="Javascript" height="50px" src="https://cdn.svgporn.com/logos/javascript.svg" /><img align="left" alt="html5" height="50px" src="https://cdn.svgporn.com/logos/html-5.svg" /><img align="left" alt="css3" height="50px" src="https://cdn.svgporn.com/logos/css-3.svg" /><img align="left" alt="Git" height="50px" src="https://cdn.svgporn.com/logos/git-icon.svg" /><img align="left" alt="netlify" height="50px" src="https://cdn.svgporn.com/logos/netlify-icon.svg" />
 
 <br />
 <br />
