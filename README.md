@@ -26,9 +26,9 @@
 <br />
 <br />
 
-# Getting Started
+## Getting Started
 
-## Installation
+### Installation
 
 <details>
 
