@@ -234,7 +234,7 @@ export const projects = [
             "File Upload Using Appwrite Storage: Users can upload and store files securely within the app using Appwrite storage services",
             "Manage and Track Application Performance Using Sentry: The application uses Sentry to monitor and track its performance and detect any errors",
         ],
-        img: "./img/carepulse.png",
+        img: "./img/carepulse.jpg",
         skills: [
             "React JS",
             "TypeScript",
@@ -273,7 +273,7 @@ export const projects = [
             "UI development (React Bootstrap, React Spinners, SweetAlert2)",
             "Deployment of the website by Render.com for both Frontend and Backend",
         ],
-        img: "./img/football.booking.png",
+        img: "./img/football.booking.jpg",
         skills: [
             "React JS",
             "MongoDB",
@@ -309,7 +309,7 @@ export const projects = [
             "Responsive navigation bar",
             "Framer Motion animation library for the project card",
         ],
-        img: "./img/personal website3.png",
+        img: "./img/personal website3.jpg",
         skills: [
             "React JS",
             "React Router",
