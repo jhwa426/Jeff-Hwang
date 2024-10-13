@@ -4,7 +4,6 @@ export const personal_info = {
         "Software Developer",
         "Frontend Developer",
         "Full-Stack Developer",
-        "Data Engineer",
     ],
     github: "https://github.com/jhwa426",
     cv: "https://drive.google.com/file/d/1EOfcupxyTn2krgEauEBoNx4yhi4zvPip/view?usp=drive_link",
